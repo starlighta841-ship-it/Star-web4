@@ -31,6 +31,7 @@
     .container-boxed{
         flex-direction: column;
         gap: 2rem;
+        overflow-x: hidden;
     }
     .col{
         width: 100%;
